@@ -1,0 +1,18 @@
+# Model checkpoints and weights
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Model archives
+*.zip
+
+# Generated reconstruction outputs
+monst3r/demo_tmp/
+*.glb
+*.ply
+*.obj
+
+# Checkpoint directories
+checkpoints/
+monst3r/third_party/sam2/checkpoints/
